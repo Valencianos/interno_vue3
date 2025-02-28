@@ -1,0 +1,20 @@
+@use "vars" as *;
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+  font-family: $primary-font;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: $secondary-font;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: $secondary-font;
+  font-style: italic;
+  font-weight: 400;
+}
